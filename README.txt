@@ -1,7 +1,9 @@
-HOW TO SET UP YOUR MONGODB WEBSITE
+How to setup
+npm i
+npm i playwright
+
+HOW TO SET UP YOUR MONGODB
 ----------------------------------
-This only matters if your bot requires a database, you can check if it needs one by seeing if "mongoPath" exists in your config.js
-If it doesn't, you can ignore this entire section and head on straight to "STARTING YOUR BOT"
 Go to https://www.mongodb.com/ and create your account
 You should see something like this: https://imgur.com/a/GmS3bj8
 Most of those aren't important, just click on "Javascript" and then "Continue" on the bottom right-hand corner of the screen

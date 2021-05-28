@@ -1,6 +1,31 @@
-How to setup
+THIS IS AN OLD VERSION OF MY BOT THERE'S BUGS WHICH ARE FIXED IN THE PRIVATE VERSION, I'AM NOT GOING TO UPDATE THIS, THIS IS ONLY FOR EDUCATIONAL PURPOSE
+
+THIS WAS MADE BY PICwarior381#2018
+
+HOW TO SET UP THE BOT:
+
+Install NodeJS (https://nodejs.org/en/)
+
+Command to use:
 npm i
 npm i playwright
+
+Make sure to put the MongoPath (see below)
+Also make sure to put your Bot Token on the config.js
+Put your proxy
+
+Now Start the Bot with this command: Node .
+If someone needs to use his own proxy he sure can by executing those command on discord: 
+!setproxy 127.0.0.1 
+!setport 80 
+!setusername ProxyUsername 
+!setPassword ProxyPassword 
+!setproxyAPI https://www.TheApiToRotateTheProxy.com
+
+By puting his own proxy he can use the command: !generate 1
+
+If they want to use YOUR proxy they can use this command: !proxyless 1
+
 
 HOW TO SET UP YOUR MONGODB
 ----------------------------------

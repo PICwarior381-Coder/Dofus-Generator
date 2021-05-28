@@ -7,7 +7,7 @@ HOW TO SET UP THE BOT:
 Install NodeJS (https://nodejs.org/en/)
 
 Command to use:
-npm i
+npm i (Should normally get everything if not then read the errors)
 npm i playwright-firefox
 
 Make sure to put the MongoPath (see below)

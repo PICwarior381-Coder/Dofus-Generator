@@ -18,7 +18,7 @@ Put your proxy
 
 Now Start the Bot with this command: Node .
 If someone needs to use his own proxy he sure can by executing those command on discord: 
-(THOSE ARE JUST AN EXAMPLE, YOU HAVE TO REPLACE THEM WITH YOUR PROXY INFORMATION)
+(THOSE ARE JUST AN EXAMPLE, YOU HAVE TO REPLACE THEM WITH THEIR PROXY INFORMATION)
 !setproxy 127.0.0.1 
 !setport 80 
 !setusername ProxyUsername 

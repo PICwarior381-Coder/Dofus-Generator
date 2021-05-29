@@ -8,6 +8,8 @@ Install NodeJS (https://nodejs.org/en/)
 
 Command to use:
 npm i (Should normally get everything if not then read the errors)
+npm i get-hrefs
+npm i faker
 npm i playwright-firefox
 
 Make sure to put the MongoPath (see below)
